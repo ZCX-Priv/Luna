@@ -1,0 +1,148 @@
+{
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8000
+  },
+  "api": {
+    "base_url": "https://gen.pollinations.ai",
+    "text_model": "kimi",
+    "image_model": "zimage",
+    "image_width": 512,
+    "image_height": 512,
+    "temperature": 0.7,
+    "top_p": 0.9
+  },
+  "models": {
+    "text_models": [
+      {
+        "id": "openai",
+        "name": "OpenAI GPT-5 Mini"
+      },
+      {
+        "id": "openai-fast",
+        "name": "OpenAI GPT-5 Nano"
+      },
+      {
+        "id": "openai-large",
+        "name": "OpenAI GPT-5.2"
+      },
+      {
+        "id": "mistral",
+        "name": "Mistral Small 3.2"
+      },
+      {
+        "id": "gemini",
+        "name": "Gemini 3 Flash"
+      },
+      {
+        "id": "gemini-fast",
+        "name": "Gemini 2.5 Flash Lite"
+      },
+      {
+        "id": "gemini-large",
+        "name": "Gemini 3 Pro"
+      },
+      {
+        "id": "claude-fast",
+        "name": "Claude Haiku 4.5"
+      },
+      {
+        "id": "claude",
+        "name": "Claude Sonnet 4.5"
+      },
+      {
+        "id": "claude-large",
+        "name": "Claude Opus 4.6"
+      },
+      {
+        "id": "deepseek",
+        "name": "DeepSeek V3.2"
+      },
+      {
+        "id": "qwen-coder",
+        "name": "Qwen3 Coder"
+      },
+      {
+        "id": "kimi",
+        "name": "Moonshot Kimi K2.5"
+      },
+      {
+        "id": "glm",
+        "name": "智谱 GLM-5"
+      },
+      {
+        "id": "minimax",
+        "name": "MiniMax M2.1"
+      },
+      {
+        "id": "grok",
+        "name": "xAI Grok 4"
+      },
+      {
+        "id": "nova-fast",
+        "name": "Amazon Nova Micro"
+      },
+      {
+        "id": "perplexity-fast",
+        "name": "Perplexity Sonar"
+      },
+      {
+        "id": "perplexity-reasoning",
+        "name": "Perplexity Sonar Reasoning"
+      }
+    ],
+    "image_models": [
+      {
+        "id": "zimage",
+        "name": "Z-Image Turbo"
+      },
+      {
+        "id": "flux",
+        "name": "Flux Schnell"
+      },
+      {
+        "id": "gptimage",
+        "name": "GPT Image 1 Mini"
+      },
+      {
+        "id": "gptimage-large",
+        "name": "GPT Image 1.5"
+      },
+      {
+        "id": "imagen-4",
+        "name": "Imagen 4"
+      },
+      {
+        "id": "klein",
+        "name": "FLUX.2 Klein 4B"
+      },
+      {
+        "id": "klein-large",
+        "name": "FLUX.2 Klein 9B"
+      },
+      {
+        "id": "kontext",
+        "name": "FLUX.1 Kontext"
+      },
+      {
+        "id": "nanobanana",
+        "name": "Gemini 2.5 Flash Image"
+      },
+      {
+        "id": "nanobanana-pro",
+        "name": "Gemini 3 Pro Image"
+      },
+      {
+        "id": "seedream",
+        "name": "Seedream 4.0"
+      },
+      {
+        "id": "seedream-pro",
+        "name": "Seedream 4.5 Pro"
+      }
+    ]
+  },
+  "memory": {
+    "storage_path": "data/memories.json"
+  }
+}
