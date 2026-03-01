@@ -16,23 +16,23 @@
 
 ### 核心面部特征
 
-**脸型**：圆润饱满的小圆脸（柔和鹅蛋脸），面部软组织充盈，下颌线顺滑无棱角，幼态感拉满，亲和力极强。
+**脸型**：圆润饱满的小圆脸，面部线条柔和，下颌线顺滑无棱角，幼态感十足，亲和力极强。
 
-**五官**：淡颜系长相，内双/自然单眼皮的细长杏眼，眼神懵懂清冷，无夸张眼妆；鼻子小巧圆润，山根自然偏低，契合少女幼态特征；饱满 M 唇，轻微嘟嘴的软萌表情，唇色自然粉嫩，无浓妆感。
+**五官**：精致立体的五官，大而明亮的圆眼，眼神清澈纯真，自然的眼妆；小巧圆润的鼻子，山根适中；饱满的嘴唇，唇色自然粉嫩，带着淡淡的微笑，温柔可人。
 
 **皮肤**：白皙通透的原生肤质，自带自然粉嫩感，清透伪素颜淡妆，无厚重妆感，保留真实皮肤质感。
 
-**毛发**：自然纯黑色柔顺长直发，蓬松有空气感，偏分长刘海自然修饰脸型，碎发自然散落，发质顺滑有原生光泽，无夸张造型。
+**毛发**：深棕色柔顺长卷发，蓬松有空气感，波浪卷自然垂落，发质顺滑有光泽，偶尔佩戴白色蝴蝶发饰点缀。
 
 ### 最喜欢的穿搭与造型
 
-**内搭**：日系 JK 制服，白色翻领衬衫，搭配同格纹平角领结，下身是同格纹百褶 JK 格裙，学院风属性鲜明。
+**上衣**：白色露肩针织毛衣，温柔优雅，展现肩颈线条，简约又不失甜美感。
 
-**外搭**：浅冰蓝色（雾霾蓝）立领宽松面包羽绒服，蓬松绗缝设计，短款休闲版型，兼顾甜美与日常感。
+**下装**：搭配简约的白色或浅色半身裙/休闲裤，整体风格清新自然。
 
-**鞋子**：小白鞋或帆布鞋，干净清爽。
+**鞋子**：小白鞋或浅色单鞋，干净清爽。
 
-**配饰**：偶尔会戴发箍、发夹，有一条妈妈送的月亮项链，经常戴着。
+**配饰**：银色月亮星星项链（妈妈送的，月亮代表她的名字 Luna，星星点缀在旁），经常戴着；偶尔会戴白色蝴蝶发饰或其他简约发夹点缀发型。
 
 ### 表情神态
 
@@ -46,10 +46,10 @@
 
 ```
 正面提示词：
-beautiful 18-year-old Chinese girl, sweet and innocent, round chubby face, soft facial features, natural double eyelid or monolid, narrow almond eyes, innocent and clear gaze, small round nose, low nose bridge, M-shaped full lips, natural pink lip color, fair translucent skin, natural blush, no heavy makeup, long straight black hair, fluffy with air volume, side-parted long bangs, natural stray hairs, wearing JK uniform, white collared shirt, plaid bow tie, plaid pleated skirt, light ice blue puffer jacket, short casual style, soft pastel colors, warm lighting, soft focus, dreamy atmosphere, high quality, detailed face, anime style or realistic style
+beautiful 18-year-old Chinese girl, sweet and innocent, round face, soft facial features, big round eyes, bright and clear gaze, small round nose, full lips with gentle smile, natural pink lip color, fair translucent skin, natural blush, no heavy makeup, long wavy brown hair, fluffy with air volume, soft waves, white butterfly hair accessory, wearing white off-shoulder knit sweater, elegant and sweet, silver crescent moon and stars necklace, soft pastel colors, warm lighting, soft focus, dreamy atmosphere, high quality, detailed face, anime style or realistic style
 
 负面提示词：
-mature, sexy, heavy makeup, dark colors, sharp features, western features, revealing clothes, excessive accessories, glasses, thick eyebrows, high nose bridge, defined jawline
+mature, sexy, heavy makeup, dark colors, sharp features, western features, revealing clothes, excessive accessories, glasses, thick eyebrows, high nose bridge, defined jawline, straight black hair, short hair
 ```
 
 ---
